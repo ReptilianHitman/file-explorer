@@ -2,7 +2,15 @@
 Console.CursorVisible = false;
 
 var selectionIndex = 0;
-var items = new DirectoryItem("/", "/").GetChildren();
+List<FileSystemItem> items;
+try
+{
+    items = new DirectoryItem(args[0], args[0]).GetChildren();
+}
+catch
+{
+    items = new DirectoryItem("/", "/").GetChildren();
+}
 
 while (true)
 {

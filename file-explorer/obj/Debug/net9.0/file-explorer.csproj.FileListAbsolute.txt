@@ -12,3 +12,4 @@
 /home/theo/RiderProjects/file-explorer/file-explorer/obj/Debug/net9.0/file-explorer.pdb
 /home/theo/RiderProjects/file-explorer/file-explorer/obj/Debug/net9.0/file-explorer.genruntimeconfig.cache
 /home/theo/RiderProjects/file-explorer/file-explorer/obj/Debug/net9.0/ref/file-explorer.dll
+/home/theo/RiderProjects/file-explorer/file-explorer/obj/Debug/net9.0/file-explorer.sourcelink.json
